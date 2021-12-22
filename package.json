@@ -1,0 +1,20 @@
+{
+  "name": "fastify-graphql-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "fastify": "^3.25.1",
+    "fastify-gql": "^5.8.2",
+    "graphql": "^16.2.0",
+    "mongoose": "^6.1.3"
+  }
+}
